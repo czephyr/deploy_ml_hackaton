@@ -15,5 +15,5 @@ Dataset used for training: https://www.kaggle.com/datasets/alessiocorrado99/anim
 ### Improvement
 A possible improvement was only conceptually explored due to the one-day time constraint the team set. 
 In this improvement the problem of monitoring the continuous performance of the model on user input gets addressed;
-we added a CloudSQL database, on which inputs and predictions are get saved to be assessed in a later moment.
+we added a CloudSQL database, on which inputs and predictions are saved to be assessed in a later moment.
 ![improv](https://github.com/czephyr/dse_hackaton/blob/master/improvement.png?raw=true)
